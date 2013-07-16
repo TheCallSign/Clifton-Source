@@ -1,1 +1,0 @@
-Put all the maps needed in this folder
